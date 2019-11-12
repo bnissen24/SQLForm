@@ -10,3 +10,4 @@ echo "Last Name: $lastName <br>";
 echo "Birthday: $birthday <br>";
 echo "Email: $email <br>";
 echo "Password: $password <br>";
+
