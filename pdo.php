@@ -1,6 +1,6 @@
 <?php
-$username = 'UCID_HERE';
-$password = 'PASSWORD_HERE';
+$username = 'bcn3_proj';
+$password = 'w9hLvRFP';
 $hostname = 'sql1.njit.edu';
 $dsn = "mysql:host=$hostname;dbname=$username";
 try {
